@@ -18,7 +18,7 @@
 	<main id="main" class="dFlex">
 	
 	<div id="best">
-		<%@ include file="/ind/best.jsp" %>	
+		<%@ include file="/bbs/best.jsp" %>	
 	</div>
 	
 	<div id="new">
