@@ -11,7 +11,7 @@ $(function() {
 		if (eDomain == "") {
 			$("#uEmail_02").focus();
 		} else {
-			$("#uEmail_01").focus();
+			$("#uEmail_01").focus(); 
 		}
 	});
 	

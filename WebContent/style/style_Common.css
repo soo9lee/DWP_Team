@@ -10,7 +10,7 @@
 
 /*main 인기글&최신글 목록 시작*/
 /*추후에 게시판 작업 완료되면 수정해주세요.*/
-#main>h2 {
+#main>h2 { 
 	width: 98%;
 	font-size: 25px;
 	margin: 20px auto;

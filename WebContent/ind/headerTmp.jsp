@@ -12,7 +12,7 @@
 <script src="/source/jquery-3.6.0.min.js"></script>
 <script src="/script/script_main.js"></script>
 </head>
-<body>
+<body> 
 
 	<header id="header">
 		<div id="header_LogoImg">

@@ -10,7 +10,7 @@
     <title>이용약관 동의</title>
 </head>
 
-<body>
+<body> 
     
     <!-- [필수] 이용약관 동의 -->
     <pre>

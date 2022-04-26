@@ -13,7 +13,7 @@
 <script src="/source/jquery-3.6.0.min.js"></script>
 <script src="/script/script_join.js"></script>
 </head>
-<body>
+<body> 
 	<div id="wrap">
 		<!-- 헤더템플릿 영역 시작 -->
 		<%@ include file="/ind/headerTmp.jsp"%>

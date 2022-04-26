@@ -12,7 +12,7 @@ $(function() {
 		//#header_MainUl 의 위치를 파악합니다.
 
 		$(window).scroll(function() {
-			if ($(document).scrollTop() > hmOffset.top) {
+			if ($(document).scrollTop() > hmOffset.top) { 
 				// 스크롤바 위치가 문서의 수직 위치보다 아래라면
 				$('#header_GNB').addClass('header_Fixed');
 				//header_Fixed 라는 클래스를 추가해줍니다. 해당 클래스 속성을 CSS에 설정해줍니다.

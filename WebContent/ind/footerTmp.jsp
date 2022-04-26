@@ -13,7 +13,7 @@
     <script src="/script/script.js"></script>
 </head>
 <body>
-	<footer id="footer" class="dFlex">
+	<footer id="footer" class="dFlex"> 
 
 		<div id="footer_CompanyInfo">
 			<ul id="footer_ComInfoUl" class="dFlex">
