@@ -27,7 +27,7 @@
 				<!-- 예시로 넣은 이미지입니다. 게시판 작업 종료 후 수정해주세요. -->
 				<span>글 제목</span>
 				<img src="/images/img_bread1.jpg" alt="" />
-				<span>글 내용 더보기...</span></li>
+				<span>글 내용 더보기</span></li>
 				<li class="main_MenuLi">
 				<span>글 제목</span>
 				<img src="/images/img_bread2.jpg" alt="" />
